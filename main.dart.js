@@ -69269,7 +69269,7 @@ A.a8b.prototype={
 $2(a,b){return A.pV(B.N,a,b)},
 $S:450}
 A.HC.prototype={
-J(a){var s=null,r="assets/mct2.png",q="Sahne Sponsoru",p="assets/isBankasi12.png",o="Ana Sponsor",n="assets/volantisFinal.png",m="Medya Sponsoru",l=A.b([B.m,B.dc,B.m],t.t_),k=A.ea("Sponsorlar",s,A.dZ().$3$color$fontSize$fontWeight(B.j,50,B.aN),s),j=t.D
+J(a){var s=null,r="assets/mct2.png",q="Sahne Sponsoru",p="assets/isBankasiFinal2.png",o="Ana Sponsor",n="assets/volantisFinal.png",m="Medya Sponsoru",l=A.b([B.m,B.dc,B.m],t.t_),k=A.ea("Sponsorlar",s,A.dZ().$3$color$fontSize$fontWeight(B.j,50,B.aN),s),j=t.D
 return A.dC(s,A.iD(A.e1(A.b([k,B.K3,this.c.b>600?A.e1(A.b([A.e1(A.b([A.agT(A.fr(r,s,s,s),300,B.dp,!1,600),A.kN(q,A.dZ().$3$color$fontSize$fontWeight(B.j,40,B.aH))],j),B.aj,B.M),B.je,A.i9(A.b([A.e1(A.b([A.En(A.fr(p,B.be,s,s),258,B.dq,B.aW,!1,450),A.kN(o,A.dZ().$3$color$fontSize$fontWeight(B.j,40,B.aH))],j),B.aj,B.M),B.e1,A.e1(A.b([A.agT(A.fr(n,B.be,s,s),175,B.aW,!1,350),A.kN(m,A.dZ().$3$color$fontSize$fontWeight(B.j,40,B.aH))],j),B.aj,B.M)],j),B.aj,B.M),B.e1],j),B.as,B.M):A.e1(A.b([B.wG,A.e1(A.b([A.agT(A.fr(r,s,s,s),175,B.dp,!1,350),A.kN(q,A.dZ().$3$color$fontSize$fontWeight(B.j,40,B.aH))],j),B.aj,B.M),A.e1(A.b([A.En(A.fr(p,B.be,s,s),172.5,B.dq,B.aW,!1,300),A.kN(o,A.dZ().$3$color$fontSize$fontWeight(B.j,40,B.aH))],j),B.aj,B.M),A.e1(A.b([A.En(A.fr(n,B.be,s,s),143.75,B.dq,B.aW,!1,250),A.kN(m,A.dZ().$3$color$fontSize$fontWeight(B.j,40,B.aH))],j),B.aj,B.M),B.wG],j),B.aj,B.M)],j),B.as,B.M),s,s),B.r,s,new A.cy(s,s,s,s,s,new A.mM(B.hi,B.hh,B.cd,l,B.Dg,s),B.af),1000,s,s,1/0)}}
 A.HB.prototype={
 J(a){var s=this,r=null,q=A.fS(0),p=$.a0().AX(10,10,B.cd),o=A.T(B.c.a2(178.5),0,0,0),n=A.fS(0)
