@@ -1,14 +1,17 @@
 # 🎉 KültürFest - Galatasaray High School Culture Festival Website
 
+![KültürFest Main Screenshot](https://github.com/user-attachments/assets/fdda30fb-9ddb-4b8b-8db1-98f3e6bf17fa)
+
 Welcome to the official website of **KültürFest**, the annual culture and arts festival organized entirely by the students of **Galatasaray High School**!
 
 This platform was created from scratch to make the festival **accessible**, **informative**, and **interactive** for everyone — students, guests, and sponsors.
 
 ---
 
-## 🎯 About the Project gslkulturfest.org
+## 🎯 About the Project — gslkulturfest.org
 
-**KültürFest** is a student-organized cultural event that combines music, art, workshops, and more. Since the entire festival is managed by the students of **Galatasaray High School**, we believed it deserved a modern and functional website.
+**KültürFest** is a student-organized cultural event that combines music, art, workshops, and more.  
+Since the entire festival is managed by the students of **Galatasaray High School**, we believed it deserved a modern and functional website.
 
 The main purposes of this website are to:
 
@@ -25,10 +28,19 @@ The main purposes of this website are to:
 
 ## 🌐 Live Website
 
-👉 [Click here to view the live website](https://gslkulturfest.org/)  
-
+👉 [Click here to view the live website](https://gslkulturfest.org/)
 
 ---
 
+## 🖼️ Additional Screenshots
 
-#
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/55941be3-276f-47a6-a252-a67c28962b52" width="70%" alt="KültürFest Screenshot 2" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9417ae08-ac8e-4c1d-bb0e-ddf95c453687" width="70%" alt="KültürFest Screenshot 3" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/asse
